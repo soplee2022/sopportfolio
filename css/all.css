@@ -1,0 +1,218 @@
+* {
+  line-height: 1;
+  letter-spacing: 1px;
+  font-family: "Noto Sans TC", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+
+body {
+  background-color: #FBF3EB;
+}
+
+h1, p, a {
+  margin: 0;
+  padding: 0;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+.p-0 {
+  padding: 0;
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+  background-color: #FBF3EB;
+}
+
+.title {
+  font-size: 40px;
+  color: #78532E;
+  font-weight: 800;
+}
+
+.title-2 {
+  font-size: 24px;
+  color: #78532E;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  margin: 0;
+  font-weight: 800;
+}
+
+.title-3 {
+  font-size: 20px;
+  color: #78532E;
+}
+
+.title-4 {
+  font-size: 16px;
+  color: #24201E;
+  margin-bottom: 10px;
+}
+
+.text-1 {
+  font-size: 14px;
+  color: #24201E;
+}
+
+.text {
+  font-size: 14px;
+  color: #24201E;
+  padding: 20px 30px;
+  padding-left: 60px;
+  line-height: 1.4;
+}
+
+.r-bg-box {
+  background-color: rgba(171, 142, 114, 0.3);
+  border-radius: 33rem 0 0 33rem;
+  margin: 20px 0;
+}
+
+.brown-box {
+  background-color: #917157;
+}
+
+.box-size-top {
+  width: 150px;
+  height: 150px;
+}
+
+.box-size-btm {
+  width: 150px;
+  height: 200px;
+}
+
+.myimg {
+  width: 200px;
+  height: 200px;
+  border-radius: 33rem;
+  padding: 0;
+  margin-top: -100px;
+  margin-bottom: 30px;
+}
+
+.icon-size {
+  width: 30px;
+  height: 30px;
+  font-size: 1.6rem;
+  color: #78532E;
+}
+
+.size-large {
+  font-size: 1.8rem;
+}
+
+.edu-pro {
+  padding: 20px;
+  padding-left: 60px;
+  margin-top: 10px;
+}
+.edu-pro p {
+  margin-bottom: 16px;
+}
+
+.name {
+  margin-top: 80px;
+}
+.name p {
+  margin: 10px 0;
+}
+
+.experience {
+  margin: 60px 0;
+  padding-left: 30px;
+}
+.experience .title-2 {
+  font-weight: 800;
+}
+
+.work p {
+  margin: 8px 0;
+  padding: 0;
+}
+.work .title-3 {
+  color: #24201E;
+  margin-bottom: 5px;
+}
+.work .brown-btn {
+  background-color: rgba(171, 142, 114, 0.3);
+  color: #78532E;
+}
+
+.gray-point::before {
+  content: "";
+  background-color: #888888;
+  width: 10px;
+  height: 10px;
+  border-radius: 33rem;
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.move-point {
+  margin-left: -35px;
+  margin-top: 40px;
+}
+
+.brown-btn {
+  color: #FBF3EB;
+  width: 140px;
+  height: 30px;
+  border-radius: 33rem;
+  line-height: 30px;
+  text-align: center;
+  font-weight: 300;
+}
+
+.line {
+  border-bottom: 1px solid #917157;
+  width: 110px;
+  margin-right: 10px;
+  margin-left: 5px;
+}
+
+.brown-text {
+  color: #917157;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.work-describe p {
+  margin-left: 10px;
+  font-weight: 300;
+}
+
+.skill {
+  margin: 40px 0;
+  padding-left: 40px;
+}
+.skill p {
+  margin: 10px 0;
+}
+.skill .brown-btn {
+  width: 120px;
+  height: 30px;
+}
+.skill .title-2 {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.skill .text-1 {
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.gray-line {
+  border-right: 1px solid #888888;
+  margin: 60px 0;
+}
+
+.contact {
+  padding-left: 40px;
+}

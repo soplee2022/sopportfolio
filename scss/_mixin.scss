@@ -1,0 +1,7 @@
+// decoration box
+
+@mixin box-size($width,$height) {
+    width: $width;
+    height: $height;
+    
+}
